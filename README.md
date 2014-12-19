@@ -5,6 +5,9 @@ Tomorrow Night Bright theme for Chrome Developer Tools.
 Made with [Zero Base Themes](https://github.com/mauricecruz/zero-base-themes).
 
 
+* [Extension](https://chrome.google.com/webstore/detail/idpgmdicmomnckcoblacfggohfogaplj?utm_source=chrome-ntp-icon "Chrome extension") for Chrome
+
+
 Authors
 -------
 
