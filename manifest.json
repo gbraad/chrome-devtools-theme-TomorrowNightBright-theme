@@ -1,7 +1,7 @@
 {
 	"name": "DevTools Theme: Tomorrow Night Bright",
 	"version": "1.0.0",
-	"description": "The Tomorrow Night Bright theme for Devtools. Based on Zero Dark Theme.",
+	"description": "The Tomorrow Night Bright theme for Devtools. Made with Zero Base Themes.",
 	"devtools_page": "index.html",
 	"homepage_url": "https://github.com/gbraad/chrome-devtools-tomorrow-night-bright-theme",
 	"manifest_version": 2,

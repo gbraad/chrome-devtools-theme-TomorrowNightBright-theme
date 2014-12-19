@@ -1,5 +1,20 @@
 Devtools Theme: Tomorrow Night Bright
 =====================================
 
-Tomorrow Night Birght theme for Chrome Developer Tools. Based on the Zero Dark theme.
+Tomorrow Night Bright theme for Chrome Developer Tools.
+Made with [Zero Base Themes](https://github.com/mauricecruz/zero-base-themes).
 
+
+Authors
+-------
+
+| [!["Gerard Braad"](http://gravatar.com/avatar/e466994eea3c2a1672564e45aca844d0.png?s=60)](http://gbraad.nl "Gerard Braad <me@gbraad.nl>") |
+|---|
+| [@gbraad](https://twitter.com/gbraad)  |
+
+
+Contact
+-------
+If you have problems with the application, please first consult the
+[Issue tracker](https://github.com/gbraad/chrome-devtools-tomorrow-night-bright-theme/issues "Issue tracker")
+at Github. You can also send me an email, PM me on Freenode or drop by in the chatroom.
