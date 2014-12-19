@@ -8,6 +8,9 @@ Made with [Zero Base Themes](https://github.com/mauricecruz/zero-base-themes).
 * [Extension](https://chrome.google.com/webstore/detail/idpgmdicmomnckcoblacfggohfogaplj?utm_source=chrome-ntp-icon "Chrome extension") for Chrome
 
 
+![Tomorrow Night Bright theme for Developer Tools](https://github.com/gbraad/chrome-devtools-tomorrow-night-bright-theme/blob/master/assets/promotile.png)
+
+
 Authors
 -------
 
